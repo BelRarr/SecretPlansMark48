@@ -5,11 +5,11 @@ Exemple d'application Web dont l'accès est sécurisé par Azure Active Director
 
 Pour les détails, veuillez lire mon article de blog à l'adresse:
 
-http://www.espacenuagic.com/2018/01/06/Azure-AD-limiter-acces-a-quelques-utilisateurs-uniquement/
+http://www.espacenuagic.com/2018/01/05/Azure-AD-limiter-acces-a-quelques-utilisateurs-uniquement/
 
 ## EN
 Code sample of a Web application which access is secured by Azure Active Directory (AAD) but limited to only few users.  
 
 For more details, please read my blog post at:
 
-http://www.espacenuagic.com/2018/01/06/Azure-AD-limiter-acces-a-quelques-utilisateurs-uniquement/
+http://www.espacenuagic.com/2018/01/05/Azure-AD-limiter-acces-a-quelques-utilisateurs-uniquement/
